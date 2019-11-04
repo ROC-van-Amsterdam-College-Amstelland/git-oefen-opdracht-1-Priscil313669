@@ -1,0 +1,19 @@
+.flex-container {
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: arial;
+}
+
+#menuItem_1, #menuItem_2, #menuItem_3 {
+    height: 30px;
+    width: 180px;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 30px;
+    background-color: black;
+    color: white;
+}
