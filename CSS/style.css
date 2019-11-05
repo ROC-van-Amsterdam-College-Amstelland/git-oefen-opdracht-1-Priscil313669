@@ -35,3 +35,9 @@ body {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+.images { 
+    width: 30px;
+    height: 60px;
+    display: inline-block;
+}
