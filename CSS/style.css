@@ -149,6 +149,7 @@ a:active {
 #linkerkant5{
     width: 20%;
     height: 30px;
+    margin: 0 auto;
     background-color: green;
     display:inline-block;
 }
@@ -158,3 +159,4 @@ a:active {
     text-align: center; 
     background: purple; 
 }
+
