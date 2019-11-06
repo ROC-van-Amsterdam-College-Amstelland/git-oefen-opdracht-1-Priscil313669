@@ -2,6 +2,7 @@ body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(127, 236, 255);
+    position: center;
 }
 
 .navbar {
@@ -80,4 +81,74 @@ a:active {
     color: yellow;
     background-color: transparent;
     text-decoration: underline;
+}
+
+#container1{
+    width: 600px;
+    height: 30px;
+    background-color: red;
+    border: 1px solid black;
+}
+
+#linkerkant1{
+    width: 40%;
+    height: 30px;
+    background-color: green;
+    display:inline-block;
+}
+
+#container2{
+    width: 600px;
+    height: 30px;
+    background-color: red;
+    border: 1px solid black;
+}
+
+#linkerkant2{
+    width: 30%;
+    height: 30px;
+    background-color: green;
+    display:inline-block;
+}
+
+#container3{
+    width: 600px;
+    height: 30px;
+    background-color: red;
+    border: 1px solid black;
+}
+
+#linkerkant3{
+    width: 10%;
+    height: 30px;
+    background-color: green;
+    display:inline-block;
+}
+
+#container4{
+    width: 600px;
+    height: 30px;
+    background-color: red;
+    border: 1px solid black;
+}
+
+#linkerkant4{
+    width: 10%;
+    height: 30px;
+    background-color: green;
+    display:inline-block;
+}
+
+#container5{
+    width: 600px;
+    height: 30px;
+    background-color: red;
+    border: 1px solid black;
+}
+
+#linkerkant5{
+    width: 20%;
+    height: 30px;
+    background-color: green;
+    display:inline-block;
 }
