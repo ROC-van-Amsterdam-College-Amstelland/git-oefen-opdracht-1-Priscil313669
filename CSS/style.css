@@ -84,76 +84,76 @@ a:active {
 }
 
 #container1{
-    width: 600px;
-    height: 30px;
+    width: 800px;
+    height: 50px;
     margin: 50px;
     background-color: red;
-    border: 1px solid black;
+    border: black solid;
 }
 
 #linkerkant1{
     width: 40%;
-    height: 30px;
+    height: 50px;
     background-color: green;
     display:inline-block;
 }
 
 #container2{
-    width: 600px;
-    height: 30px;
+    width: 800px;
+    height: 50px;
     margin: 50px;
     background-color: red;
-    border: 1px solid black;
+    border: black solid;
 }
 
 #linkerkant2{
     width: 30%;
-    height: 30px;
+    height: 50px;
     background-color: green;
     display:inline-block;
 }
 
 #container3{
-    width: 600px;
-    height: 30px;
+    width: 800px;
+    height: 50px;
     margin: 50px;
     background-color: red;
-    border: 1px solid black;
+    border: black solid;
 }
 
 #linkerkant3{
     width: 10%;
-    height: 30px;
+    height: 50px;
     background-color: green;
     display:inline-block;
 }
 
 #container4{
-    width: 600px;
-    height: 30px;
+    width: 800px;
+    height: 50px;
     margin: 50px;
     background-color: red;
-    border: 1px solid black;
+    border: black solid;
 }
 
 #linkerkant4{
     width: 10%;
-    height: 30px;
+    height: 50px;
     background-color: green;
     display:inline-block;
 }
 
 #container5{
-    width: 600px;
-    height: 30px;
+    width: 800px;
+    height: 50px;
     margin: 50px;
     background-color: red;
-    border: 1px solid black;
+    border: black solid;
 }
 
 #linkerkant5{
-    width: 20%;
-    height: 30px;
+    width: 35%;
+    height: 50px;
     margin: 0 auto;
     background-color: green;
     display:inline-block;
@@ -163,5 +163,12 @@ a:active {
     padding: 10px;
     text-align: center; 
     background: purple; 
+}
+
+.demo , .demo1 {
+    width: 80px;
+    height: 40px;
+    margin: 50px;
+    text-align: center;
 }
 

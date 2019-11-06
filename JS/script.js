@@ -10,3 +10,12 @@ function clock()
     document.getElementById("date").innerHTML=date+" "+month+", "+year;
 }
 
+function myFunction() {
+    document.getElementById("demo2").innerHTML = "Like me";
+}
+
+
+function myFunction() {
+    document.getElementById("demo1").innerHTML = "Dislike";
+}
+
